@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Coock/1.0.0": {
+        "dependencies": {
+          "Inquirer.cs": "3.2.0-alpha"
+        },
+        "runtime": {
+          "Coock.dll": {}
+        }
+      },
+      "Inquirer.cs/3.2.0-alpha": {
+        "runtime": {
+          "lib/InquirerCS.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Coock/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Inquirer.cs/3.2.0-alpha": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-jqMz0YmynyQQSD5JLdmYdmX2WJrdMO64Cp86w7fpi4h4erp9Y/0AV/Bo87bq2sMT94pLyT5A6yjTFfT4nUyadA==",
+      "path": "inquirer.cs/3.2.0-alpha",
+      "hashPath": "inquirer.cs.3.2.0-alpha.nupkg.sha512"
+    }
+  }
+}

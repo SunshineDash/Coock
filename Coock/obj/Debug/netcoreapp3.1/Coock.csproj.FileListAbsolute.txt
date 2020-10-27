@@ -1,0 +1,15 @@
+C:\Users\Asus\source\repos\Coock\Coock\bin\Debug\netcoreapp3.1\Coock.exe
+C:\Users\Asus\source\repos\Coock\Coock\bin\Debug\netcoreapp3.1\Coock.deps.json
+C:\Users\Asus\source\repos\Coock\Coock\bin\Debug\netcoreapp3.1\Coock.runtimeconfig.json
+C:\Users\Asus\source\repos\Coock\Coock\bin\Debug\netcoreapp3.1\Coock.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\Coock\Coock\bin\Debug\netcoreapp3.1\Coock.dll
+C:\Users\Asus\source\repos\Coock\Coock\bin\Debug\netcoreapp3.1\Coock.pdb
+C:\Users\Asus\source\repos\Coock\Coock\obj\Debug\netcoreapp3.1\Coock.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\Coock\Coock\obj\Debug\netcoreapp3.1\Coock.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\Coock\Coock\obj\Debug\netcoreapp3.1\Coock.AssemblyInfo.cs
+C:\Users\Asus\source\repos\Coock\Coock\obj\Debug\netcoreapp3.1\Coock.dll
+C:\Users\Asus\source\repos\Coock\Coock\obj\Debug\netcoreapp3.1\Coock.pdb
+C:\Users\Asus\source\repos\Coock\Coock\obj\Debug\netcoreapp3.1\Coock.genruntimeconfig.cache
+C:\Users\Asus\source\repos\Coock\Coock\bin\Debug\netcoreapp3.1\InquirerCS.dll
+C:\Users\Asus\source\repos\Coock\Coock\obj\Debug\netcoreapp3.1\Coock.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Coock\Coock\obj\Debug\netcoreapp3.1\Coock.csproj.CopyComplete

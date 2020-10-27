@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "g/Y1VXMI2CInylCQZ4ZyfopymR+1lGnQ8CWEs1jS/crW4lwfYquGvwtyiFYsidBTJXfPhX43ZBrojcFRT5YFxA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Asus\\source\\repos\\Coock\\Coock\\Coock.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Asus\\.nuget\\packages\\inquirer.cs\\3.2.0-alpha\\inquirer.cs.3.2.0-alpha.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Inquirer.cs 3.2.0-alpha' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
+      "libraryId": "Inquirer.cs",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}
